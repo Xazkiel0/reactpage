@@ -4,7 +4,7 @@
 
 @layer base{
   body{
-    @apply bg-primary-900 text-primary-300;
+    @apply bg-1-900 text-white;
   }
 }
 ::-webkit-scrollbar {
@@ -12,7 +12,7 @@
   background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-  @apply bg-primary-800 rounded-lg;
+  @apply bg-1-800 rounded-lg;
 }
 
 html,
